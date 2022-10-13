@@ -23,7 +23,7 @@ I built this site initially for a UX Design class at Western Governor's Universi
 <img src='screenshots/taniti-transportation-section.png' alt='List of fictional island transportation methods' height='400'>
 
 ## Live Website
-The full website is available [here](https://example.com).
+The full website is available [here](www.samueljones.codes/taniti).
 
 ## Special Thanks
 Special thanks to @jonasschmedtmann and his Udemy course [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/).
